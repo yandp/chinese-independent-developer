@@ -20,6 +20,43 @@
 
 ## 3. 项目列表
 
+### 2025 年 12 月 14 号添加
+#### yuhanw496-sketch - [Github](https://github.com/yuhanw496-sketch)
+* :white_check_mark: [YourGirlfriend.app](https://www.yourgirlfriend.app/)：AI 伴侣（专注于对话与情感支持），提供自然流畅的聊天体验，适合缓解压力或日常陪伴
+* :white_check_mark: [Hailuo AI](https://www.hailuoai.work/)：AI 内容生成工具，无需剪辑软件，将创意快速转化为动画视频，简化视频制作流程
+* :white_check_mark: [Nano Banana 2 AI](https://banananano2.ai/)：AI 图像生成工具（支持角色一致性保持与多步工作流，兼顾速度与质量），适合快速产出专业视觉内容
+* :white_check_mark: [Flux 2 AI](https://flux-2-ai.com/)：AI 绘画工具（无需注册即可生成 2K-4K 高清图像），支持多模型切换，适合快速创意验证与设计
+
+#### seven(沈阳)
+* :white_check_mark: [视力测试](https://eyetestonline.org/): 视力测试（免费）包括视力（visual acuity）、色觉（color）、对比度（contrast）和视野（field screening）筛查
+
+### 2025 年 12 月 13 号添加
+#### Ivanvolt(wh) - [博客](https://ivanvolt.com)
+* :white_check_mark: [Aluo AI](https://aluo.ai)：AI 产品图生成与电商图片编辑工具
+* :white_check_mark: [AiDirs](https://aidirs.best)：探索并分享最佳人工智能工具
+
+#### Toby(南京)
+* :white_check_mark: [YoChanger](https://yochanger.com/)：AI 换装，在线试衣间
+
+### 2025 年 12 月 12 号添加
+#### Ri_vai(sz)
+* :white_check_mark: [Nano Banana Pro](https://applebanana.pro/)：AI 图片生成、图片编辑网站
+
+#### WtecHtec(s) - [Github](https://github.com/WtecHtec), [博客](https://wtechtec.com/)
+- :white_check_mark: [PassScan](https://xujingyichang.top/)：简历分析工具（AI驱动），支持人岗匹配、多维度人才画像分析
+
+#### xxk1323(郑州)
+* :white_check_mark: [ImagineGo](https://imaginego.ai)：视频和图像模型聚合站，目前上线 10+ 模型
+
+#### Wcowin(重庆) - [Github](https://github.com/Wcowin), [博客](https://wcowin.work/)
+* :white_check_mark: [OneClip](https://oneclip.cloud/)：剪贴板管理工具（专为 macOS 设计），支持多种格式内容管理，智能搜索和分类，让您的复制粘贴操作更加便捷高效 - [更多介绍](https://wcowin.work/blog/OneClip/)
+
+#### Shawn(北京) - [Github](https://github.com/ShawnHacks)
+* :white_check_mark: [Screentell](https://screentell.com)：录屏工具(低门槛)，可以满足 90 %以上的录屏 DEMO 需求，特色支持手绘风格贴纸 - [更多介绍](https://x.com/ShawnHacks/status/1996480396637446197)
+
+#### biboom(广州)
+* :white_check_mark: [YouTube 字幕生成器](https://transcriptinprogress.online)：将 Youtube 视频转为文字
+
 ### 2025 年 12 月 11 号添加
 #### handsometong
 * :white_check_mark: [Future Me AI](https://futuremeai.app/)：专为儿童设计的 AI 职业肖像生成器。上传孩子照片，从 50+ 职业中选择，生成激发梦想的专业未来职业照片
